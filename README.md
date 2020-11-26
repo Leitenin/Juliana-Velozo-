@@ -13,5 +13,4 @@
 	<h1>Juliana Velozo.<h1>
 	<h2>Consultora de imagens. Mary Kay.</h2>
 	<img src="https://logospng.org/download/mary-kay/logo-mary-kay-1536.png">
-        <h1>⠀⠀⠀⠀⠀⠀⠀⠀</h1>
 	<a href="https://api.whatsapp.com/send?phone=55_61_99566657" ><h1>Seja um consultora Mary Kay</h1><A>
