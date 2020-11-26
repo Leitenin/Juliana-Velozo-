@@ -1,6 +1,5 @@
 <html>
 <head>
-	<title>Juliana joias e maquiagens</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="viewport" content="height=device-height, initial-scale=1">
         <header class="Menu principal">
