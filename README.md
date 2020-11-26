@@ -6,6 +6,7 @@
         	<div>
         	</div>
         </header>
+	<background color="Pink">
 	<body bgcolor="#ff80ff"><font size="5">
 <body>
 	<center>
