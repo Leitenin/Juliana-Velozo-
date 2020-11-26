@@ -6,9 +6,7 @@
         	<div>
         	</div>
         </header>
-	<background color="Pink">
-	<body bgcolor="#ff80ff"><font size="5">
-<body>
+	<background color="Pink"><font size 5>
 	<center>
 	<h1>Juliana Velozo.<h1>
 	<h2>Consultora de imagens. Mary Kay.</h2>
