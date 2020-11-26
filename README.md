@@ -4,9 +4,9 @@
         <meta name="viewport" content="height=device-height, initial-scale=1">
         <header class="Menu principal">
         	<div>
+	<background color="Pink"><font size 5>
         	</div>
         </header>
-	<background color="Pink"><font size 5>
 	<center>
 	<h1>Juliana Velozo<h1>
 	<h2>Consultora de imagens. Mary Kay.</h2>
